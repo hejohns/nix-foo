@@ -1,10 +1,6 @@
 [submodule "one"]
 	path = one
-	url = ./one
+	url = https://github.com/hejohns/nix-foo-two.git
 [submodule "two"]
 	path = two
-	url = ./two
-[submodule "./one"]
 	url = https://github.com/hejohns/nix-foo-one.git
-[submodule "./two"]
-	url = https://github.com/hejohns/nix-foo-two.git
